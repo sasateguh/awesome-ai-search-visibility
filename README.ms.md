@@ -21,7 +21,7 @@
 - [danishashko/geo-aeo-tracker](https://github.com/danishashko/geo-aeo-tracker) - ★ 300+ · MIT · 2026-10 — Open-source AI visibility tracker. Track how ChatGPT, Perplexity, Gemini, Copilot and Google AI Mode mention and cite your brand. Self-hosted, MIT, bring your own keys.
 - [limelit-co/open](https://github.com/limelit-co/open) - ★ 210+ · Apache-2.0 · 2026-10 — Self-hosted AI visibility tracking (AEO / GEO / LLMO). Track how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite your brand. One Go binary, SQLite, MCP-first, bring your own keys.
 - [oneglanse/oneglanse](https://github.com/oneglanse/oneglanse) - ★ 230+ · MIT · 2026-10 — Open-source AI visibility, AEO & GEO tracker. Monitor how ChatGPT, Perplexity, Gemini, Claude, and Google AI Overview mention and cite your brand through real product UIs. MIT-licensed and self-hostable.
-- [ansvisor/ansvisor](https://github.com/ansvisor/ansvisor) - ★ 160+ · MIT · 2026-10 — Open-source AI Search Intelligence Platform — track, analyze, and improve AI visibility, citations, prompts, competitors, and content opportunities across ChatGPT, Claude, Gemini, Google AI Overviews, Google AI Mode, Perplexity, Grok, and Microsoft Copilot.
+- [ansvisor/ansvisor](https://github.com/ansvisor/ansvisor) - ★ 160+ · MIT · 2026-10 — Open-source agentic AI Search Execution Platform. Track AI visibility, find opportunities, and let agents turn signals into prioritized actions and drafted fixes across ChatGPT, Claude, Gemini, Google AI Overviews, Google AI Mode, Perplexity, Grok, and Microsoft Copilot.
 - [databluedev/searchmirror](https://github.com/databluedev/searchmirror) - ★ 100+ · AGPL-3.0 · 2026-10 — Open-source, self-hosted rank tracker and AI-visibility monitor built on the DataBlue SERP API. Bring your own key. AGPL-3.0.
 - [alexpospekhov/searchstack-aeo](https://github.com/alexpospekhov/searchstack-aeo) - ★ 110 · MIT · 2026-09 — Searchstack — Open-source AEO/GEO/SEO tech stack for AI-native founders. Monitor your visibility across Google, AI Overviews, ChatGPT, Perplexity, Claude & Grok from one CLI. 22 commands, 9 APIs, llms.txt generator, Markdown reports, cron-ready.
 - [AI2HU/gego](https://github.com/AI2HU/gego) - ★ 100+ · GPL-3.0 · 2026-07 — Generative Engine Optimization for your brand, track your GEO across all LLMs.
@@ -99,3 +99,9 @@ Repositori tidak disenaraikan bila ia diarkib, fork, tiada penerangan, kurang da
 ## Menyumbang
 
 Cadangan dialu-alukan. Lihat [contributing.md](contributing.md).
+
+## Bekerja dengan Sasa Teguh
+
+Senarai ini diselenggara oleh [Sasa Teguh](https://sasateguh.com/ms), studio di Malaysia. Kami membina laman web yang ditemui di Google dan dalam jawapan AI, dan memasang sistem untuk perniagaan.
+
+[Tempah panggilan](https://sasateguh.com/ms/book) · hello@sasateguh.com · [Lagi daripada Sasa Teguh](https://github.com/sasateguh)
