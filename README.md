@@ -12,6 +12,7 @@
 - [Agent skills](#agent-skills)
 - [Research](#research)
 - [How the ranking works](#how-the-ranking-works)
+- [Work with Sasa Teguh](#work-with-sasa-teguh)
 
 ## Visibility tracking
 
@@ -96,12 +97,12 @@ Every entry is a public GitHub repository. Each week a script reads its stars, l
 
 A repository is left out when it is archived, a fork, has no description, has fewer than 20 stars or has not been pushed for 365 days. Star counts are rounded down to the nearest 10. Descriptions are the repositories' own GitHub descriptions.
 
-## Contributing
-
-Suggestions are welcome. See [contributing.md](contributing.md).
-
 ## Work with Sasa Teguh
 
 This list is maintained by [Sasa Teguh](https://sasateguh.com), a studio in Malaysia. We build websites that are found on Google and in AI answers, and we set up systems for businesses.
 
 [Book a call](https://sasateguh.com/book) · hello@sasateguh.com · [More from Sasa Teguh](https://github.com/sasateguh)
+
+## Contributing
+
+Suggestions are welcome. See [contributing.md](contributing.md).
