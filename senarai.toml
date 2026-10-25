@@ -1,0 +1,410 @@
+# Senarai GEO (PELAN-senarai-niche S2). Teks EN/BM di sini = teks awam: DRAF sehingga flag S3 dijawab `ok`.
+# Kurasi: entri = repo yang KHUSUS tentang keterlihatan dalam jawapan enjin AI (GEO/AEO/llms.txt); pakej kemahiran
+# pemasaran umum, agensi, direktori berbayar dan senarai awesome lain = `kecuali` (supaya `cari` tidak mencadangkannya
+# semula). Penerangan bukan Latin (pembaca EN/BM tidak dapat membaca petikannya) juga `kecuali`.
+id = "geo"
+repo = "sasateguh/awesome-ai-search-visibility"
+bundar_bintang = 10
+buang_fork = true
+# Calon `cari` yang ditolak semasa kurasi (bukan khusus GEO/AEO, senarai awesome lain, penerangan bukan Latin).
+kecuali = [
+  "12errh/zen-proxy",
+  "aaron-he-zhu/aaron-marketing-skills",
+  "AgentAnycast/agentanycast",
+  "AgriciDaniel/chatgpt-seo",
+  "AgriciDaniel/flow",
+  "aldegad/awesome-geo",
+  "aleclindz/seo-skill-bench",
+  "alirezarezvani/claude-code-aso-skill",
+  "alternbits/awesome-ai-visibility",
+  "amplifying-ai/awesome-generative-engine-optimization",
+  "beihaili/Get-Started-with-Web3",
+  "beyondtahir/beyondseo",
+  "buildingopen/opengtm",
+  "cgallic/kai-cmo-harness",
+  "chnjames/AIGEOTOOLS",
+  "coreyhaines31/marketingskills",
+  "DavidHuji/Awesome-GEO",
+  "discoveredlabs/awesome-aeo-seo",
+  "discoveredlabs/awesome-aeo-seo-tools",
+  "DogukanUrker/Tamga",
+  "fanrenaz/easyGEO",
+  "fayerman-source/startup-growth-playbook",
+  "fenjo26/OpenGSC",
+  "flop-labs/technocore-chat",
+  "gbessoni/seobuild-onpage",
+  "GetBrew/growth-engineer",
+  "Goldziher/ai-rulez",
+  "HeiGeAi/HeiGe-GEO-SEO",
+  "Houseofmvps/ultraship",
+  "hqhq1025/skill-optimizer",
+  "i365dev/awesome-seo",
+  "IamRamgarhia/All-In-One-Free-SEO-Tool",
+  "Illyism/seo-skills",
+  "indranilbanerjee/contentforge",
+  "indranilbanerjee/digital-marketing-pro",
+  "izak-fisher/generative-engine-optimization-tools",
+  "jdevalk/specification.website",
+  "JeffLi1993/saas-seo-playbook",
+  "JonImmsWordpressDev/stratawp-seo",
+  "JoviDeCroock/pracht",
+  "kangise/ecommerce-ai-skills",
+  "lhitches/claude-seo-skills",
+  "liangdabiao/GEO-Content-Optimizer-Skill",
+  "LLM-X-Factorer/awesome-geo-cn",
+  "local-falcon/mcp",
+  "Lolner95/AIGX",
+  "luka2chat/awesome-geo",
+  "marketingtoolslist/awesome-geo",
+  "nirholas/agenti",
+  "nirholas/crypto-vision",
+  "nirholas/fresh-start",
+  "nirholas/PAI",
+  "nirholas/pump-fun-sdk",
+  "QuantumNous/new-api-docs-v1",
+  "RankSpotAI/awesome-geo-tools",
+  "RankSpotAI/awesome-seo-agent-skills",
+  "RankSpotAI/awesome-seo-mcp",
+  "Ryze-AI-Adgent/open-seo-mcp-skills",
+  "sceneview/sceneview",
+  "seranking/seo-skills",
+  "shalintripathi/saas-marketing-agents",
+  "sourcey/sourcey",
+  "squirrelscan/squirrelscan",
+  "Suganthan-Mohanadasan/awesome-seo-tools",
+  "Synaptiv-AI/awesome-n8n",
+  "tentenco/awesome-geo",
+  "thevibeworks/claude-code-docs",
+  "tinylion1024/oh-my-growth",
+  "tomaszboloz/SEOmi",
+  "TraceCohenTech/ai-seo-playbook",
+  "tradecatlabs-projects/fatecat",
+  "ultralytics/mkdocs",
+  "unifapi-agent/agents",
+  "Varietyz/Disciplined-AI-Software-Development",
+  "ViryaZheng/recomby-geo",
+  "wonfull888/seo-audit",
+  "Wu-beining/generative-engine-optimization-research-hub",
+  "XuanRanL/loamwright-SEO-Skill",
+  "Xwh630/ai-agent-handbook",
+  "younatics/MotionBook",
+]
+
+[en]
+tajuk = "Awesome AI Search Visibility"
+pembuka = "Open-source tools and research for generative engine optimization (GEO): being found, cited and recommended in answers from ChatGPT, Perplexity, Gemini, Claude and Google AI. Ranked by stars and recent activity, refreshed every week."
+
+[ms]
+tajuk = "Senarai Berpangkat Keterlihatan Carian AI"
+pembuka = "Alat dan kajian sumber terbuka untuk pengoptimuman enjin generatif (GEO): supaya jenama ditemui, dipetik dan disyorkan dalam jawapan ChatGPT, Perplexity, Gemini, Claude dan Google AI. Dipangkat ikut bintang dan aktiviti terkini, dikemas setiap minggu."
+
+[github]
+# Deskripsi + topik repo (D38): deskripsi lulus config/gaya.toml; topik = `gilap topik --wajib awesome,awesome-list` 25 Okt
+# (data GitHub; taksa dibuang). Teks awam — terbit bait-sama selepas kelulusan pemilik.
+penerangan = "Ranked, weekly-updated list of open-source tools and research for generative engine optimization (GEO) and AI search visibility."
+topik = ["awesome", "awesome-list", "seo", "chatgpt", "llms-txt", "ai-search", "generative-engine-optimization", "aeo", "perplexity", "ai-visibility", "answer-engine-optimization", "ai-seo"]
+
+[pangkat]
+bintang = 1.0
+aktif = 1.0
+
+[ambang]
+bintang_min = 20
+hari_tidak_aktif = 365
+
+[produk]
+nama = "Repx"
+url = "https://repx.my"
+syarat = "laman_indeks"
+
+[cari]
+had = 50
+pertanyaan = [
+  '"generative engine optimization"',
+  '"answer engine optimization"',
+  "topic:generative-engine-optimization",
+  "topic:answer-engine-optimization",
+  "topic:geo-optimization",
+  "topic:aeo",
+  "topic:llms-txt",
+  "llms.txt generator",
+  '"AI visibility" tracker',
+  '"AI search" visibility',
+]
+
+[[kategori]]
+id = "pantau"
+en = "Visibility tracking"
+ms = "Pemantauan keterlihatan"
+
+[[kategori]]
+id = "audit"
+en = "Audit and optimization"
+ms = "Audit dan pengoptimuman"
+
+[[kategori]]
+id = "llms-txt"
+en = "llms.txt and machine-readable sites"
+ms = "llms.txt dan laman yang boleh dibaca mesin"
+
+[[kategori]]
+id = "kemahiran"
+en = "Agent skills"
+ms = "Kemahiran ejen AI"
+
+[[kategori]]
+id = "kajian"
+en = "Research"
+ms = "Kajian"
+
+[[entri]]
+repo = "elmohq/elmo"
+kategori = "pantau"
+
+[[entri]]
+repo = "danishashko/geo-aeo-tracker"
+kategori = "pantau"
+
+[[entri]]
+repo = "oneglanse/oneglanse"
+kategori = "pantau"
+
+[[entri]]
+repo = "limelit-co/open"
+kategori = "pantau"
+
+[[entri]]
+repo = "ansvisor/ansvisor"
+kategori = "pantau"
+
+[[entri]]
+repo = "AI2HU/gego"
+kategori = "pantau"
+
+[[entri]]
+repo = "databluedev/searchmirror"
+kategori = "pantau"
+
+[[entri]]
+repo = "ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool"
+kategori = "pantau"
+
+[[entri]]
+repo = "yaojingang/GEORank"
+kategori = "pantau"
+
+[[entri]]
+repo = "anyin-ai/aperture"
+kategori = "pantau"
+
+[[entri]]
+repo = "hellowalt/aeo-radar"
+kategori = "pantau"
+
+[[entri]]
+repo = "aicw-io/aicw-ai-mentions"
+kategori = "pantau"
+
+[[entri]]
+repo = "moaljumaa/habibi"
+kategori = "pantau"
+
+[[entri]]
+repo = "Pupok462/open-geo"
+kategori = "pantau"
+
+[[entri]]
+repo = "gooseworks-ai/goose-aeo"
+kategori = "pantau"
+
+[[entri]]
+repo = "AKzar1el/mcp-geo"
+kategori = "pantau"
+
+[[entri]]
+repo = "aws-samples/sample-llm-search-citation-analysis-with-amazon-bedrock"
+kategori = "pantau"
+
+[[entri]]
+repo = "alexpospekhov/searchstack-aeo"
+kategori = "pantau"
+
+[[entri]]
+repo = "FayAndXan/xanlens"
+kategori = "pantau"
+
+[[entri]]
+repo = "Auriti-Labs/geo-optimizer-skill"
+kategori = "audit"
+
+[[entri]]
+repo = "cucuwang/geoptimize"
+kategori = "audit"
+
+[[entri]]
+repo = "mverab/eGEOagents"
+kategori = "audit"
+
+[[entri]]
+repo = "rubenmarcus/aeo.js"
+kategori = "audit"
+
+[[entri]]
+repo = "dodopayments/dualmark"
+kategori = "audit"
+
+[[entri]]
+repo = "IJONIS/geo-lint"
+kategori = "audit"
+
+[[entri]]
+repo = "jianruntech/geo-score"
+kategori = "audit"
+
+[[entri]]
+repo = "geo-team-red/geo-optimizer"
+kategori = "audit"
+
+[[entri]]
+repo = "GitHiteshZope/aigeo"
+kategori = "audit"
+
+[[entri]]
+repo = "aigclink/geolook"
+kategori = "audit"
+
+[[entri]]
+repo = "yaojingang/GEOFlow"
+kategori = "audit"
+
+[[entri]]
+repo = "spronta/crawlie"
+kategori = "audit"
+
+[[entri]]
+repo = "shadowresearch/auto-geo"
+kategori = "audit"
+
+[[entri]]
+repo = "Canonry/canonry"
+kategori = "audit"
+
+[[entri]]
+repo = "collectionscms/collections"
+kategori = "audit"
+
+[[entri]]
+repo = "AnswerDotAI/llms-txt"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "thedaviddias/llms-txt-hub"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "firecrawl/llmstxt-generator"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "thedaviddias/mcp-llms-txt-explorer"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "apify/actor-llmstxt-generator"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "jdillard/sphinx-llms-txt"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "4hse/astro-llms-txt"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "aircodelabs/llms-txt-generator"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "madarco/ragrabbit"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "yazinsai/site-md"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "agent-ecosystem/afdocs"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "agent-ecosystem/agent-docs-spec"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "mensfeld/llm-docs-builder"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "onvoyage-ai/gtm-engineer-skills"
+kategori = "kemahiran"
+
+[[entri]]
+repo = "leopard627/fire-your-seo-agency"
+kategori = "kemahiran"
+
+[[entri]]
+repo = "OranAi-Ltd/orangeo-ai-visibility-skill"
+kategori = "kemahiran"
+
+[[entri]]
+repo = "Houseofmvps/claude-rank"
+kategori = "kemahiran"
+
+[[entri]]
+repo = "yaojingang/GEOHub"
+kategori = "kemahiran"
+
+[[entri]]
+repo = "seo-skills/geo-audit-skill"
+kategori = "kemahiran"
+
+[[entri]]
+repo = "TheSmokeDev/geo-skills"
+kategori = "kemahiran"
+
+[[entri]]
+repo = "Hainrixz/claude-seo-ai"
+kategori = "kemahiran"
+
+[[entri]]
+repo = "mykpono/ultimate-seo-geo"
+kategori = "kemahiran"
+
+[[entri]]
+repo = "fseixas/super-geo-agent-readiness"
+kategori = "kemahiran"
+
+[[entri]]
+repo = "akii-technologies-ltd/akii-seo-ai-search-optimizer"
+kategori = "kemahiran"
+
+[[entri]]
+repo = "GEO-optim/GEO"
+kategori = "kajian"
+
+[[entri]]
+repo = "cxcscmu/AutoGEO"
+kategori = "kajian"
+
+[[entri]]
+repo = "psbagga17/E-GEO"
+kategori = "kajian"
+
+[[entri]]
+repo = "AIcling/agentic_geo"
+kategori = "kajian"
+
+[[entri]]
+repo = "Wu-beining/MAGEO"
+kategori = "kajian"
