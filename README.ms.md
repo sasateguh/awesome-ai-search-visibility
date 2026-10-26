@@ -17,7 +17,7 @@
 ## Pemantauan keterlihatan
 
 - [yaojingang/GEORank](https://github.com/yaojingang/GEORank) - ★ 510+ · Apache-2.0 · 2026-10 — Open-source GEO ranking and generative engine optimization platform.
-- [elmohq/elmo](https://github.com/elmohq/elmo) - ★ 490 · MIT · 2026-10 — Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code.
+- [elmohq/elmo](https://github.com/elmohq/elmo) - ★ 490+ · MIT · 2026-10 — Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code.
 - [ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool) - ★ 490+ · lesen lain · 2026-09 — GetCito the World's First Open Source AI Search Optimization (AIO) / Answer Engine Optimization (AEO) or Generative Engine Optimization (GEO) and AI Visibility Tracking Tool.
 - [danishashko/geo-aeo-tracker](https://github.com/danishashko/geo-aeo-tracker) - ★ 300+ · MIT · 2026-10 — Open-source AI visibility tracker. Track how ChatGPT, Perplexity, Gemini, Copilot and Google AI Mode mention and cite your brand. Self-hosted, MIT, bring your own keys.
 - [limelit-co/open](https://github.com/limelit-co/open) - ★ 210+ · Apache-2.0 · 2026-10 — Self-hosted AI visibility tracking (AEO / GEO / LLMO). Track how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite your brand. One Go binary, SQLite, MCP-first, bring your own keys.
@@ -38,7 +38,7 @@
 
 ## Audit dan pengoptimuman
 
-- [yaojingang/GEOFlow](https://github.com/yaojingang/GEOFlow) - ★ 3.8k+ · AGPL-3.0 · 2026-10 — Open-source GEO content engineering and multi-site distribution platform with AI quality inspection, illustrated admin help, hosted sites, browser-assisted publishing, and signed updates.
+- [yaojingang/GEOFlow](https://github.com/yaojingang/GEOFlow) - ★ 3.9k+ · AGPL-3.0 · 2026-10 — Open-source GEO content engineering and multi-site distribution platform with AI quality inspection, illustrated admin help, hosted sites, browser-assisted publishing, and signed updates.
 - [Auriti-Labs/geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) - ★ 1.1k+ · MIT · 2026-10 — Open-source Answer Engine Optimization (AEO) & Generative Engine Optimization (GEO) toolkit — audit, optimize & track whether ChatGPT, Perplexity, Gemini & Google AI Overviews cite your site. AI SEO / LLM SEO. CLI, Python, MCP, Astro.
 - [aigclink/geolook](https://github.com/aigclink/geolook) - ★ 780+ · MIT · 2026-08 — Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification.
 - [cucuwang/geoptimize](https://github.com/cucuwang/geoptimize) - ★ 260+ · MIT · 2026-10 — Deterministic content-readiness lint.
