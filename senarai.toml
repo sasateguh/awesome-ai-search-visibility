@@ -28,6 +28,7 @@ kecuali = [
   "discoveredlabs/awesome-aeo-seo",
   "discoveredlabs/awesome-aeo-seo-tools",
   "DogukanUrker/Tamga",
+  "Fangx-AI/geo-doctor",
   "fanrenaz/easyGEO",
   "fayerman-source/startup-growth-playbook",
   "fenjo26/OpenGSC",
@@ -41,6 +42,7 @@ kecuali = [
   "i365dev/awesome-seo",
   "IamRamgarhia/All-In-One-Free-SEO-Tool",
   "Illyism/seo-skills",
+  "inaridiy/webforai",
   "indranilbanerjee/contentforge",
   "indranilbanerjee/digital-marketing-pro",
   "izak-fisher/generative-engine-optimization-tools",
@@ -80,6 +82,7 @@ kecuali = [
   "TraceCohenTech/ai-seo-playbook",
   "tradecatlabs-projects/fatecat",
   "ultralytics/mkdocs",
+  "ultrametricai/ultrametric",
   "unifapi-agent/agents",
   "Varietyz/Disciplined-AI-Software-Development",
   "ViryaZheng/recomby-geo",
@@ -231,6 +234,14 @@ kategori = "pantau"
 
 [[entri]]
 repo = "FayAndXan/xanlens"
+kategori = "pantau"
+
+[[entri]]
+repo = "yaojingang/GEOInflow"
+kategori = "pantau"
+
+[[entri]]
+repo = "moajez/omni_geo"
 kategori = "pantau"
 
 [[entri]]
