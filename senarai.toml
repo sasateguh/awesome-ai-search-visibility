@@ -28,6 +28,7 @@ kecuali = [
   "discoveredlabs/awesome-aeo-seo",
   "discoveredlabs/awesome-aeo-seo-tools",
   "DogukanUrker/Tamga",
+  "everyinfra/seo-skills",
   "Fangx-AI/geo-doctor",
   "fanrenaz/easyGEO",
   "fayerman-source/startup-growth-playbook",
@@ -89,9 +90,11 @@ kecuali = [
   "ViryaZheng/recomby-geo",
   "wonfull888/seo-audit",
   "Wu-beining/generative-engine-optimization-research-hub",
+  "wvlet/wvlet",
   "XuanRanL/loamwright-SEO-Skill",
   "Xwh630/ai-agent-handbook",
   "younatics/MotionBook",
+  "YunYouJun/valaxy",
 ]
 
 [en]
@@ -206,7 +209,7 @@ repo = "hellowalt/aeo-radar"
 kategori = "pantau"
 
 [[entri]]
-repo = "aicw-io/aicw-ai-mentions"
+repo = "aichatwatch/aicw-ai-mentions"
 kategori = "pantau"
 
 [[entri]]
