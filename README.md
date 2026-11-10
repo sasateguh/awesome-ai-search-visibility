@@ -17,7 +17,7 @@
 ## Visibility tracking
 
 - [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow) - ★ 820+ · MIT · 2026-11 — Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.
-- [elmohq/elmo](https://github.com/elmohq/elmo) - ★ 570+ · MIT · 2026-11 — Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code.
+- [elmohq/elmo](https://github.com/elmohq/elmo) - ★ 580+ · MIT · 2026-11 — Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code.
 - [yaojingang/GEORank](https://github.com/yaojingang/GEORank) - ★ 530+ · Apache-2.0 · 2026-10 — Open-source GEO ranking and generative engine optimization platform.
 - [limelit-co/open](https://github.com/limelit-co/open) - ★ 430+ · Apache-2.0 · 2026-11 — Self-hosted AI visibility tracking (AEO / GEO / LLMO). Track how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite your brand. One Go binary, SQLite, MCP-first, bring your own keys.
 - [ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool) - ★ 420+ · MIT · 2026-11 — GetCito the World's First Open Source AI Search Optimization (AIO) / Answer Engine Optimization (AEO) or Generative Engine Optimization (GEO) and AI Visibility Tracking Tool.
@@ -41,7 +41,7 @@
 ## Audit and optimization
 
 - [yaojingang/GEOFlow](https://github.com/yaojingang/GEOFlow) - ★ 4k+ · AGPL-3.0 · 2026-11 — Open-source GEO content engineering and multi-site distribution platform with AI quality inspection, illustrated admin help, hosted sites, browser-assisted publishing, and signed updates.
-- [Auriti-Labs/geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) - ★ 1.2k+ · MIT · 2026-11 — GEO Optimizer, the open-source engine behind GeoReady (geoready.dev): audit whether ChatGPT, Perplexity, Gemini & Google AI Overviews cite your site. CLI, Python, MCP.
+- [Auriti-Labs/geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) - ★ 1.3k · MIT · 2026-11 — GEO Optimizer, the open-source engine behind GeoReady (geoready.dev): audit whether ChatGPT, Perplexity, Gemini & Google AI Overviews cite your site. CLI, Python, MCP.
 - [aigclink/geolook](https://github.com/aigclink/geolook) - ★ 810+ · MIT · 2026-08 — Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification.
 - [cucuwang/geoptimize](https://github.com/cucuwang/geoptimize) - ★ 260+ · MIT · 2026-11 — Deterministic content-readiness lint.
 - [mverab/eGEOagents](https://github.com/mverab/eGEOagents) - ★ 210+ · MIT · 2026-11 — Open-source Generative Engine Optimization (GEO) & Answer Engine Optimization (AEO) toolkit — optimize content to rank in ChatGPT, Perplexity, Gemini & Claude. AI SEO / LLM SEO. CLI, Claude Code, MCP.
@@ -80,7 +80,7 @@
 - [akii-technologies-ltd/akii-seo-ai-search-optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) - ★ 70+ · MIT · 2026-11 — Akii: SEO & AI Search Optimizer. Free MIT-licensed Claude Code plugin for SEO, AEO and GEO. Audit websites, plan content, generate schema and check links. Includes 12 skills, 5 agents and 3 commands.
 - [Houseofmvps/claude-rank](https://github.com/Houseofmvps/claude-rank) - ★ 140+ · MIT · 2026-07 — Claude Code plugin that tells you why your site won't get cited by AI — and fixes the discoverability files automatically. 170+ rules across 10 scanners.
 - [OranAi-Ltd/orangeo-ai-visibility-skill](https://github.com/OranAi-Ltd/orangeo-ai-visibility-skill) - ★ 140+ · MIT · 2026-06 — Open-source GEO / AEO skill for AI visibility readiness: check robots.txt, llms.txt, schema, citation signals, competitor gaps, and buyer prompts.
-- [seo-skills/geo-audit-skill](https://github.com/seo-skills/geo-audit-skill) - ★ 30+ · MIT · 2026-09 — Deterministic GEO audits for AI search: a Python CLI and Claude Code skills that score how well AI engines can read, quote and cite a site.
+- [seo-skills/geo-audit-skill](https://github.com/seo-skills/geo-audit-skill) - ★ 40 · MIT · 2026-09 — Deterministic GEO audits for AI search: a Python CLI and Claude Code skills that score how well AI engines can read, quote and cite a site.
 - [TheSmokeDev/geo-skills](https://github.com/TheSmokeDev/geo-skills) - ★ 30+ · MIT · 2026-09 — 29 free GEO/AI-search Agent Skills plus an installable CLI for audits, citability, AI crawlers, prompt packs, owner maps, Claude Code and Codex. MIT.
 - [fseixas/super-geo-agent-readiness](https://github.com/fseixas/super-geo-agent-readiness) - ★ 20+ · no license · 2026-06 — Claude Skill for Generative Engine Optimization and agent readiness. Get cited by ChatGPT, Perplexity, and Google AI Overviews. Expose MCP, llms.txt, and OAuth to AI agents.
 
