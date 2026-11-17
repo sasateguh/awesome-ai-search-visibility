@@ -8,6 +8,7 @@ bundar_bintang = 10
 buang_fork = true
 # Calon `cari` yang ditolak semasa kurasi (bukan khusus GEO/AEO, senarai awesome lain, penerangan bukan Latin).
 kecuali = [
+  "10k11/flux",
   "12errh/zen-proxy",
   "aaron-he-zhu/aaron-marketing-skills",
   "AgentAnycast/agentanycast",
@@ -87,6 +88,7 @@ kecuali = [
   "tradecatlabs-projects/fatecat",
   "ultralytics/mkdocs",
   "ultrametricai/ultrametric",
+  "umutxyp/Seo-Promt-Master",
   "UnderleveledBuilder/awesome-seo-geo-skills",
   "unifapi-agent/agents",
   "Varietyz/Disciplined-AI-Software-Development",
@@ -312,6 +314,10 @@ repo = "collectionscms/collections"
 kategori = "audit"
 
 [[entri]]
+repo = "vinpatel/aeorank"
+kategori = "audit"
+
+[[entri]]
 repo = "AnswerDotAI/llms-txt"
 kategori = "llms-txt"
 
@@ -361,6 +367,10 @@ kategori = "llms-txt"
 
 [[entri]]
 repo = "mensfeld/llm-docs-builder"
+kategori = "llms-txt"
+
+[[entri]]
+repo = "sherwinvishesh/OpenGSO"
 kategori = "llms-txt"
 
 [[entri]]
