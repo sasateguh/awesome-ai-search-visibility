@@ -74,6 +74,7 @@ kecuali = [
   "Ryze-AI-Adgent/open-seo-mcp-skills",
   "sceneview/sceneview",
   "seranking/seo-skills",
+  "ShaishavMaisuria/research-paper-lifecycle-skills",
   "shalintripathi/saas-marketing-agents",
   "sourcey/sourcey",
   "squirrelscan/squirrelscan",
@@ -315,6 +316,10 @@ kategori = "audit"
 
 [[entri]]
 repo = "vinpatel/aeorank"
+kategori = "audit"
+
+[[entri]]
+repo = "itsryanarmani/usegeoaeo"
 kategori = "audit"
 
 [[entri]]
